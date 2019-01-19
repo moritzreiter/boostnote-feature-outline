@@ -3,8 +3,4 @@ description: >-
   The missing guide to Boostnote's coolest features
 url: "http://boostnote.anothernode.com"
 
-# Build settings
-markdown: kramdown
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
