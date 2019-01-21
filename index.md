@@ -18,15 +18,21 @@ Boostnote.
 To remedy this situation, this little guide aims at bringing to light all the
 neat stuff that Boostnote can do while unpretentiously hiding it from you.
 
+Also have a look at the [Boostnote Markdown
+Cheatsheet](https://github.com/TobseF/boostnote-markdown-cheatsheet). It takes a
+more encyclopedic approach and this guide owes a lot os inspiration to it.
+
 <a href="#header" class="button">↑</a>
 
 # Markdown
 
 Boostnote's basic note format is the nowadays ubiquitous
-[Markdown](https://daringfireball.net/projects/markdown/). It is [well
-documented](https://guides.github.com/features/mastering-markdown/) and
-[standardized](https://commonmark.org). Check out one of those resources if you
-are not familiar with Markdown.
+[Markdown](https://en.wikipedia.org/wiki/Markdown). It is [well
+documented](https://daringfireball.net/projects/markdown/) and
+[standardized](https://commonmark.org). Check out one of the many
+[excellent](https://blog.ghost.org/markdown/)
+[existing](https://guides.github.com/features/mastering-markdown/)
+[resources](https://www.markdownguide.org) if you are not familiar with it.
 
 But Boostnote also supports many advanced, non-standardized Markdown features,
 which are listed here.
