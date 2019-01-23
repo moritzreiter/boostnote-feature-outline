@@ -24,18 +24,79 @@ more encyclopedic approach and this guide owes a lot os inspiration to it.
 
 <a href="#header" class="button">↑</a>
 
-# Markdown
+# Text Formatting
 
-Boostnote's basic note format is the nowadays ubiquitous
-[Markdown](https://en.wikipedia.org/wiki/Markdown). It is [well
+Basic text formatting is done with
+[Markdown](https://en.wikipedia.org/wiki/Markdown). It became the de facto
+standard for text formatting in the internet and it is [well
 documented](https://daringfireball.net/projects/markdown/) and
 [standardized](https://commonmark.org). Check out one of the many
 [excellent](https://blog.ghost.org/markdown/)
 [existing](https://guides.github.com/features/mastering-markdown/)
 [resources](https://www.markdownguide.org) if you are not familiar with it.
 
-But Boostnote also supports many advanced, non-standardized Markdown features,
-which are listed here.
+But Boostnote has advanced formatting options, some of them in form of Markdown
+extensions that are not part of the standardized CommonMark specification. Those
+formatting options that go beyond basic Markdown are listed here.
+
+## Blocks
+
+## Folding
+
+## Indications
+
+## To-do Checkboxes
+
+## Keyboard Symbols
+
+## Arrows
+
+## Emoticons
+
+## Footnotes
+
+## Jump to Line
+
+## Definition Lists
+
+## Tables
+
+## Subscript & Superscript
+
+_Code:_
+
+```;
+Drinking the 37^th^ cup of coffee on one day might cause a C~8~H~10~N~4~O~2~ overdose.
+```
+
+_Preview:_
+
+![Subscript & superscript rendering example](/assets/img/subscript-and-superscript.png)
+
+## Tool tips
+
+You can add tool tips to any phrase used in a note. The explanation will pop up
+as a tool tip when hovering over the phrase and all occurrences of the phrase
+itself will be decorated with a subtle dashed line. This is handy, for example,
+to provide an explanation for abbreviations, as exemplified with the following
+small excerpt from the website of the [The Dozenal Society of Great
+Britain](http://www.dozenalsociety.org.uk).
+
+_Code:_
+
+```;
+The DSGB [...] (founded 1959) and the DSA [...] (founded 1944) are separate
+organisations with a common aim: to draw attention to the advantages of the
+Dozen (or twelve-based) system for numeration and measurement.
+
+*[DSGB]: The Dozenal Society of Great Britain
+*[DSA]: The Dozenal Society of America
+```
+
+_Result:_
+
+![Tooltip rendering example](/assets/img/tooltip.png)
+
 
 <a href="#header" class="button">↑</a>
 
@@ -45,7 +106,31 @@ _TODO_
 
 <a href="#header" class="button">↑</a>
 
+# Chart.js
+
+_TODO_
+
+<a href="#header" class="button">↑</a>
+
+# Flowchart.js
+
+_TODO_
+
+<a href="#header" class="button">↑</a>
+
 # Mermaid
+
+_TODO_
+
+<a href="#header" class="button">↑</a>
+
+# ditaa
+
+_TODO_
+
+<a href="#header" class="button">↑</a>
+
+# PlantUML
 
 _TODO_
 
