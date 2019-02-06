@@ -27,6 +27,11 @@ are [well documented](https://guides.github.com/features/mastering-markdown/)
 [elsewhere](https://blog.ghost.org/markdown/) and therefore not in the scope of
 this guide.
 
+It's also obviously out of scope to describe every single rendering engine in
+depth. The idea is just to give you an overview of what Boostnote includes, a
+first impression of what the different rendering engines are about and a
+reference to their respective project sites to explore them further as needed.
+
 Also have a look at the [Boostnote Markdown
 Cheatsheet](https://github.com/TobseF/boostnote-markdown-cheatsheet). It takes a
 more encyclopedic approach and this guide owes a lot os inspiration to it.
