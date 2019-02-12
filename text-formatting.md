@@ -114,10 +114,11 @@ _Result:_
 
 ### Tables
 
-Tables are one of the classic Markdown extensions. Note how you can tweak
-alignment in cells by positioning a colon character at either the left side, the
-right or both sides just under the header row for left, right or center
-alignment respectively, left alignment being the default.
+Tables (as well as [task list items](#task-list-items)) are a Markdown extension
+in [GitHub Flavored Markdown](https://github.github.com/gfm/#tables-extension-).
+Note how you can tweak alignment in cells by positioning a colon character at
+either the left side, the right or both sides just under the header row for
+left, right or center alignment respectively, left alignment being the default.
 
 _Code:_
 
@@ -239,11 +240,14 @@ _Result:_
 
 ![Subscript & superscript rendering example](/assets/img/subscript-and-superscript.png)
 
-### To-do Checkboxes
+### Task List Items
 
-When a note contains checkboxes, Boostnote will show a progress bar on top of
-the note reflecting the proportion of ticked to untickted boxes. This turns a
-note into a nice and simple project planner.
+Tast list items, just like [Tables](#tables), are a Markdown extension from
+[GitHub Flavored
+Markdown](https://github.github.com/gfm/#task-list-items-extension-). When a
+note contains one or more task list items, Boostnote will show a progress bar on
+top of the note reflecting the proportion of ticked to unticked items. This
+effectively turns a note into a nice and simple project planner.
 
 _Code:_
 
@@ -256,4 +260,4 @@ _Code:_
 
 _Result:_
 
-![Checkboxes example](/assets/img/checkboxes.png)
+![Task list items example](/assets/img/task-list-items.png)
