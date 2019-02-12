@@ -175,7 +175,7 @@ _Result:_
 
 ![Footnotes example](/assets/img/footnotes.png)
 
-### Tool tips
+### Tool Tips
 
 You can add tool tips to any phrase used in a note. The explanation will pop up
 as a tool tip when hovering over the phrase and all occurrences of the phrase
