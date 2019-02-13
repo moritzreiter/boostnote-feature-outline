@@ -7,13 +7,13 @@ layout: default
 [Boostnote](https://boostnote.io) is an Open Source note taking app for
 developers. It doesn't come with much documentation, which is fine, because its
 straight forward user interface doesn't need a lot of explanation and, well,
-note taking is a fairly simple concept, right?
+note taking is kind of a well understood concept, right?
 
 But wait! Boostnote actually goes far beyond the basics by including a bunch of
-rendering engines for many different more or less specialized use cases. This
-fact is somewhat buried in its release notes and source code. So there's a
-chance you are missing out on some of the coolest things you can do with
-Boostnote.
+rendering engines for many different more or less specialized and sophisticated
+use cases. This fact isn't much advertised but instead somewhat buried in
+Boostnote's release notes and source code. So there's a chance you are missing
+out on some of the coolest things you can do with it.
 
 To remedy this situation, this little guide aims at bringing to light all the
 neat stuff that Boostnote can do while unpretentiously hiding it from you.
