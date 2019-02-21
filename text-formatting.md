@@ -146,7 +146,7 @@ _Result:_
 
 ## References
 
-There are two types of references: footnotes and tooltips.
+Boostnote supports footnotes, tool tips and links to other notes.
 
 ### Footnotes
 
@@ -199,6 +199,32 @@ _Result:_
 
 (Source: [The Dozenal Society of Great
 Britain](http://www.dozenalsociety.org.uk))
+
+### Note Links
+
+Creating a link to another note works just like creating an ordinary link in
+Markdown, but instead of using a URL, using the ID of the note prefixed with
+`:note:`.
+
+To obtain the note ID, you can either us its context menu or the note info pane
+that pops up when you click the small info icon in the upper right corner of the
+note. Both are illustrated in the screenshots below.
+
+![Note context menu with copy link item](/assets/img/note-copy-link.png)
+
+![Note info pane](/assets/img/note-info.png)
+
+_Code:_
+
+```md
+# A Note That Links
+
+[A Note to Be Linked to](:note:4db6d28c-1725-4063-a669-fa31286efcfc)
+```
+
+_Result:_
+
+![Note with link example](/assets/img/rendered-note-with-link.png)
 
 ## Various Substitutions
 
