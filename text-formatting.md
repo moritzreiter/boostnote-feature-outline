@@ -167,6 +167,7 @@ _Code:_
 
 [^lacan]: [Jacques Lacan - Wikipedia](https://en.wikipedia.org/wiki/Jacques_Lacan)
 [^sokal]: Sokal, Alan D. 1996. “Transgressing the Boundaries: Towards a
+Transformative Hermeneutics of Quantum Gravity.” Social Text, no. 46/47: 217–52.
 ```
 
 _Result:_
